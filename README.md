@@ -1,4 +1,4 @@
-## Toxic Comment Classifier
+## :speak_no_evil:Toxic Comment Classifier
 This projectg focuses on building a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate.
 
 ## Motivation
